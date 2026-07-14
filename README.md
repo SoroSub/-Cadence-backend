@@ -1,5 +1,4 @@
-# Sorosub
-
+# Cadence
 **Recurring payments on Stellar — automated subscriptions and donations, settled in seconds.**
 
 Sorosub is a subscription and recurring-donation protocol built on the Stellar network. Creators, SaaS businesses, and nonprofits define a payment plan; subscribers authorize it once via their wallet; and charges execute automatically on schedule — fully on-chain, auditable, and settled in USDC or XLM for a fraction of a cent per transaction.
@@ -7,7 +6,7 @@ Sorosub is a subscription and recurring-donation protocol built on the Stellar n
 ---
 
 ## Table of Contents
-
+- {screenshots}
 - [How It Works](#how-it-works)
 - [Architecture](#architecture)
 - [Real Stellar Features Used](#real-stellar-features-used)
@@ -21,6 +20,17 @@ Sorosub is a subscription and recurring-donation protocol built on the Stellar n
 - [License](#license)
 
 ---
+
+## Screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c27b2298-9043-46d8-9a16-f7552875126e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d10c67a8-f8a7-473c-9897-fc78170ad578" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a632c1b9-2552-4ac6-8f1b-f8aedcd07bff" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43ab7124-7dc6-40c1-9009-cac2ae8fa47a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c3ac6ec-66d7-44b7-b200-a34ddbab35ee" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3f8614a-9cef-4f1e-8227-456d3a36251a" />
+
+live on : https://cadence-protocol.lovable.app/
+
 
 ## How It Works
 
